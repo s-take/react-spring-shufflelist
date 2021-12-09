@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-spring-shufflelist/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/react-spring-shufflelist/static/js/main.de997f2f.chunk.js",
+    "main.js.map": "/react-spring-shufflelist/static/js/main.de997f2f.chunk.js.map",
+    "runtime-main.js": "/react-spring-shufflelist/static/js/runtime-main.13734fed.js",
+    "runtime-main.js.map": "/react-spring-shufflelist/static/js/runtime-main.13734fed.js.map",
+    "static/js/2.a21627f3.chunk.js": "/react-spring-shufflelist/static/js/2.a21627f3.chunk.js",
+    "static/js/2.a21627f3.chunk.js.map": "/react-spring-shufflelist/static/js/2.a21627f3.chunk.js.map",
+    "static/js/3.232fc19f.chunk.js": "/react-spring-shufflelist/static/js/3.232fc19f.chunk.js",
+    "static/js/3.232fc19f.chunk.js.map": "/react-spring-shufflelist/static/js/3.232fc19f.chunk.js.map",
+    "index.html": "/react-spring-shufflelist/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/react-spring-shufflelist/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a21627f3.chunk.js.LICENSE.txt": "/react-spring-shufflelist/static/js/2.a21627f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13734fed.js",
+    "static/js/2.a21627f3.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.de997f2f.chunk.js"
+  ]
+}
